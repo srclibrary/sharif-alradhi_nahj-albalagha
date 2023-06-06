@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:8a175f59-bf21-442a-a6d2-90d87b52d874" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+    <meta name="cover" content="647f89ec901e3_5f9dc6ed469773f289b8c746c6ff2a70_png" />
+  </head>
+  <docTitle>
+    <text>نهج البلاغة</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text></text>
+      </navLabel>
+      <content src="title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text></text>
+      </navLabel>
+      <content src="ch001.xhtml#section" />
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+        <text>عن الكتاب</text>
+      </navLabel>
+      <content src="ch002.xhtml#عن-الكتاب" />
+    </navPoint>
+    <navPoint id="navPoint-3">
+      <navLabel>
+        <text>عن المؤلف</text>
+      </navLabel>
+      <content src="ch003.xhtml#عن-المؤلف" />
+    </navPoint>
+    <navPoint id="navPoint-4">
+      <navLabel>
+        <text>نهج البلاغة 1</text>
+      </navLabel>
+      <content src="ch004.xhtml#نهج-البلاغة-1" />
+    </navPoint>
+    <navPoint id="navPoint-5">
+      <navLabel>
+        <text>نهج البلاغة 2</text>
+      </navLabel>
+      <content src="ch005.xhtml#نهج-البلاغة-2" />
+    </navPoint>
+    <navPoint id="navPoint-6">
+      <navLabel>
+        <text>نهج البلاغة 3</text>
+      </navLabel>
+      <content src="ch006.xhtml#نهج-البلاغة-3" />
+    </navPoint>
+    <navPoint id="navPoint-7">
+      <navLabel>
+        <text>نهج البلاغة 4</text>
+      </navLabel>
+      <content src="ch007.xhtml#نهج-البلاغة-4" />
+    </navPoint>
+  </navMap>
+</ncx>
